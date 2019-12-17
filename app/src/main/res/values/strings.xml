@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatePickerDialogDemo</string>
+    <string name="date">選取時間</string>
+</resources>
